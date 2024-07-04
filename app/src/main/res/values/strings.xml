@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SkvorcovIS-2-05</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Главное</string>
+    <string name="title_dashboard">Подборка </string>
+    <string name="title_notifications">Коллекции</string>
+    <string name="title_profile">Профиль</string>
+    <string name="WorldCinema">WorldCinema</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="vhod">Войти</string>
+    <string name="reg">Регистрация</string>
+    <string name="spisok">Список фильмов</string>
+
+
+</resources>
